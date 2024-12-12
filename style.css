@@ -181,37 +181,6 @@ header {
 .logo button:hover {
   background-color: #010310;
 }
-/* 
-#ios-popup {
-  position: fixed;
-  margin-top: 110px;
-  margin-left: 70px;
-  border: 1px solid #ccc;
-  max-height: 400px;
-  max-width: 70vw;
-  overflow-y: auto;
-  border-radius: 10px;
-  z-index: 1000;
-} */
-
-/* .popup-content {
-  padding: 10px;
-  background-color: #010310;
-  cursor: pointer;
-}
-
-#close-popup-btn {
-  background-color: #007bff;
-  color: white;
-  border: none;
-  padding: 10px;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-#close-popup-btn:hover {
-  background-color: #0056b3;
-} */
 
 .container {
   padding: 20px;
@@ -276,7 +245,7 @@ header {
   margin-left: 5px;
   border: 1px solid #ccc;
   max-height: 200px;
-  width: 40vw;
+  width: 62vw;
   overflow-y: auto;
   border-radius: 5px;
 }
@@ -516,10 +485,6 @@ header {
   /* .search-container:hover #search-input {
     width: 180px;
   } */
-  #ios-popup {
-    margin-top: 70px;
-    margin-left: 250px;
-  }
   section {
     margin: 0 150px;
   }
@@ -539,10 +504,6 @@ header {
   /* .search-container:hover #search-input {
     width: 165px;
   } */
-  #ios-popup {
-    margin-top: 70px;
-    margin-left: 97px;
-  }
   section {
     margin: 0 60px;
   }
@@ -569,9 +530,8 @@ header {
   /* .search-container:hover #search-input {
     width: 155px;
   } */
-  #ios-popup {
-    margin-top: 70px;
-    margin-left: 55px;
+  .search-results{
+    width: 85vw;
   }
   section {
     margin: 0 auto;
