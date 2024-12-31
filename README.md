@@ -14,6 +14,18 @@ Sholawat Baru Ditambahkan
 13. Ludz Fii Hima
 14. Habibi Ya Muhammad
 15. Tahanina
+16. Baina Katifaihi Alamah
+17. Ayyuhal Musytaqu
+18. Idza Rodhoni
+19. Assholatu Daim
+20. Ilahi Idza Dhoqo
+21. Ala Ya Rosulallahi Innaka Rohmatun
+22. Bi Islami Wa Imani
+23. Ya Qubbatal Khodro Malik
+24. Mahbubi Lamma Bada
+25. Waddili Salami
+26. Sholatullahi Dzil Karomi
+27. Sholli Dzal Jalali
 
 Menambahkan List Medley Banjari Dan Medley Hadroh
 Dan Sholawat Pembuka Banjari / Hadroh
