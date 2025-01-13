@@ -11,5 +11,13 @@ Sholawat Baru Ditambahkan
 10. Ya Ahmadannur
 11. Thorfil Zaailqod
 12. Ya Robbana Ya Robbana
+13. Ilahi Ya Ilahi Taubatan
+14. Nurunnabiyyi
+15. Nabiyal Huda
+16. Marhaban Ya syahro Romadhon
+17. Hatili
+18. Khudz Yaminan
+19. Liqolbi Yahwa Liqo
+20. Ahlun Nuha | Ya Ayyuha Ahlun Nuha
 
 Menambahkan Medley Sholawat Pembuka Dan Medley Hadroh
