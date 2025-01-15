@@ -6,7 +6,7 @@ Sholawat Baru Ditambahkan
 5. Ya Robbana Sholli Ala Asyrofil Alamin
 6. Laisa Dinullah
 7. Hanit Wahanini
-8. 
+8. Alaihi Sholatullah
 9. 
 10. 
 
