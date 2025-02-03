@@ -80,10 +80,10 @@ document.addEventListener('contextmenu', function(e) {
   // alert('Klik kanan dinonaktifkan!');
 });
 
- // Event listener untuk redirect ketika opsi dipilih
- document.getElementById('pilihan').addEventListener('change', function() {
-  var url = this.value;
-  if (url) {
-      window.location.href = url; // Redirect ke halaman yang dipilih
-  }
-});
+//  // Event listener untuk redirect ketika opsi dipilih
+//  document.getElementById('pilihan').addEventListener('change', function() {
+//   var url = this.value;
+//   if (url) {
+//       window.location.href = url; // Redirect ke halaman yang dipilih
+//   }
+// });
