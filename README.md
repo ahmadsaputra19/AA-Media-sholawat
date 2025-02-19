@@ -1,8 +1,8 @@
 Sholawat Baru Ditambahkan
-1. Ya Nurohayati
-2. Yasirlana Kullal Umuri
-3. Ilahana Yasirlana Umurona
-4. Maulid Habibi Syuq
+1. 
+2. 
+3. 
+4. 
 5. 
 6. 
 7. 
