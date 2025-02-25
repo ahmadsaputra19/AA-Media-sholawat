@@ -3,8 +3,8 @@ Sholawat Baru Ditambahkan
 2. Ya Ruhi Thibi
 3. Aqulu Lirruh | Ibtihal
 4. Assalamu'alaik Lengkap
-5. 
-6. 
+5. Allahu Zada Muhammadan | Ibtihal
+6. Ya Ramadhan | Mesut Kurtis
 7. 
 8. 
 9. 
