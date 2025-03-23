@@ -1,10 +1,10 @@
 Sholawat Baru Ditambahkan
-1. Ya Rouhi
-2. Ya Ruhi Thibi
-3. Aqulu Lirruh | Ibtihal
-4. Assalamu'alaik Lengkap
-5. Allahu Zada Muhammadan | Ibtihal
-6. Ya Ramadhan | Mesut Kurtis
+1. Dusturul Qur'an
+2. Dzabal Fuadi | Ibtihal
+3. Antata'lamu | Ibtihal
+4. 
+5. 
+6. 
 7. 
 8. 
 9. 
