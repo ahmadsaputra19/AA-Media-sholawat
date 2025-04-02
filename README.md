@@ -3,12 +3,11 @@ Sholawat Baru Ditambahkan
 2. Dzabal Fuadi | Ibtihal
 3. Antata'lamu | Ibtihal
 4. Ya Musthofa Mahlak
-5. 
+5. Serat Penjajah | kalamun qodim
 6. 
 7. 
 8. 
 9. 
 10. 
 
-update medley banjari 2
-Penambahan Maulid Ad-dhiyaul Lami'
+update medley hadroh 1
