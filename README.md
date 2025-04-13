@@ -10,5 +10,4 @@ Sholawat Baru Ditambahkan
 9. 
 10. 
 
-update medley hadroh 1
-Tambahan Maulid Ad-diba'i
+Penambahan Qoshidah Gambus
