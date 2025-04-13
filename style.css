@@ -526,6 +526,10 @@ header {
   }
   .list li {
     margin-left: 10px;
+    font-size: 15px;
+  }
+  .list li .dropdown {
+    font-size: 15px;
   }
   /* .search-container:hover #search-input {
     width: 155px;
