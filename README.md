@@ -1,13 +1,13 @@
 Sholawat Baru Ditambahkan
-1. Dusturul Qur'an
-2. Dzabal Fuadi | Ibtihal
-3. Antata'lamu | Ibtihal
-4. Ya Musthofa Mahlak
-5. Serat Penjajah | kalamun qodim
-6. Ahmad Yahabibi | Gemuruh Suara
-7. Rindu Madinah 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
 8. 
 9. 
 10. 
 
-Penambahan Qoshidah Gambus
+Menambahkan Medley Jiharkah
