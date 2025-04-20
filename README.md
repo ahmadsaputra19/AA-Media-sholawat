@@ -9,5 +9,3 @@ Sholawat Baru Ditambahkan
 8. 
 9. 
 10. 
-
-Menambahkan Medley Jiharkah
