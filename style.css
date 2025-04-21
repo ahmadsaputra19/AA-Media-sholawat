@@ -60,6 +60,34 @@ header {
   margin: 0 220px;
 }
 
+.section-box {
+  transition: transform 0.5s ease, box-shadow 0.3s ease;
+  transform-style: preserve-3d;
+}
+
+.section-box:hover {
+  transform: rotateY(5deg) scale(1.05);
+  box-shadow: 0 10px 20px rgba(255, 255, 255, 0.2);
+}
+
+.section-box h3 {
+  transition: transform 0.5s ease;
+}
+
+.section-box:hover h3 {
+  transform: translateY(-5px);
+}
+
+.logo-img {
+  max-width: 250px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: -160px;
+}
+
 .navbar-nav {
   justify-content: space-between;
   background-color: #080718;
@@ -511,6 +539,10 @@ header {
     grid-template-columns: 1fr 1fr;
     gap: 10px;
   }
+  .col-md-4 {
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
 }
 @media (max-width: 576px) {
   header {
@@ -530,6 +562,9 @@ header {
   }
   .list li .dropdown {
     font-size: 15px;
+  }
+  .logo-img {
+    margin-bottom: -20px;
   }
   /* .search-container:hover #search-input {
     width: 155px;

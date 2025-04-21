@@ -25,7 +25,7 @@ document.getElementById('whatsapp-form').addEventListener('submit', function(eve
     let message = document.getElementById('message').value;
 
     let whatsappNumber = '6289603170126';
-    let whatsappMessage = `Assalamu'alaikum, nama saya ${name}.\nGroup hadroh saya: ${hadroh}.\nPesan saya: ${message}`;
+    let whatsappMessage = `Assalamu'alaikum, nama saya ${name}.\nAlamat saya di: ${hadroh}.\nPesan saya: ${message}`;
 
     let whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
     
