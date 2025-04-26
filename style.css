@@ -94,8 +94,16 @@ header {
 }
 
 /* cara install */
-.container {
+.container-install {
   text-align: center;
+}
+
+.container-install p{
+  src: url('./ScheherazadeNew-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  color: white;
+  margin: 10px;
 }
 
 .install {
