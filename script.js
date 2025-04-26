@@ -88,33 +88,22 @@ document.addEventListener('contextmenu', function(e) {
 //   }
 // });
 
-// Fungsi Install
+// install-btn
 let deferredPrompt;
-const installBtn = document.getElementById('install-btn');
 
-// Event listener untuk menangkap beforeinstallprompt
 window.addEventListener('beforeinstallprompt', (e) => {
-    // Mencegah prompt default
     e.preventDefault();
-    // Simpan event
     deferredPrompt = e;
-    // Tampilkan tombol install
-    installBtn.style.display = 'block';
 
-    installBtn.addEventListener('click', () => {
-        // Sembunyikan tombol install
-        installBtn.style.display = 'none';
-        // Tampilkan prompt instalasi
+    document.getElementById('install-btn').style.display = 'block';
+});
+
+document.getElementById('install-btn').addEventListener('click', async () => {
+    if (deferredPrompt){
         deferredPrompt.prompt();
-        // Tunggu hasil dari prompt
-        deferredPrompt.userChoice.then((choiceResult) => {
-            if (choiceResult.outcome === 'accepted') {
-                console.log('User accepted the install prompt');
-            } else {
-                console.log('User dismissed the install prompt');
-            }
-            // Reset deferredPrompt agar tidak bisa dipanggil kembali
-            deferredPrompt = null;
-        });
-    });
+        const {outcome} = await
+        deferredPrompt.userChoice;
+        console.log(`User response: ${outcome}`);
+        deferredPrompt = null;
+    }
 });
