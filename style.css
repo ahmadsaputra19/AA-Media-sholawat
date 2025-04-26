@@ -93,15 +93,23 @@ header {
   background-color: #080718;
 }
 
-#asyiq {
+/* cara install */
+.container {
   text-align: center;
 }
 
-#asyiq button img{
-  position: absolute;
-  margin: auto;
-  left: 48%;
+.install {
+  display: flex;
+  flex-direction: columns;
+  justify-content: center;
+  align-items: center;
 }
+
+.install img{
+  width: 200px;
+  margin: auto;
+}
+/* cara install end */
 
 .run-teks {
   border-radius: 10px;
@@ -203,23 +211,6 @@ header {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
-}
-
-/* Popup Menu */
-#install-btn {
-  background: transparent;
-  display: block;
-  border: none;
-  margin-top: -15px;
-  margin-right: -10px;
-  padding: 15px;
-  border-radius: 5px;
-  cursor: pointer;
-  color: white;
-}
-
-#install-btn img{
-  width: 30px;
 }
 
 .logo button:hover {
