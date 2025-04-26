@@ -93,6 +93,16 @@ header {
   background-color: #080718;
 }
 
+#asyiq {
+  text-align: center;
+}
+
+#asyiq button img{
+  position: absolute;
+  margin: auto;
+  left: 48%;
+}
+
 .run-teks {
   border-radius: 10px;
   width: 95%;
@@ -136,20 +146,6 @@ header {
   display: flex;
   justify-content: space-between;
   padding: 20px;
-}
-
-#install-btn {
-  background: transparent;
-  display: block;
-  border: none;
-  padding: 10px;
-  border-radius: 5px;
-  cursor: pointer;
-  color: white;
-}
-
-#install-btn img{
-  color: white;
 }
 
 .logo button:hover {
@@ -223,7 +219,7 @@ header {
 }
 
 #install-btn img{
-  width: 18px;
+  width: 30px;
 }
 
 .logo button:hover {
