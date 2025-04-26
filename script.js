@@ -87,23 +87,3 @@ document.addEventListener('contextmenu', function(e) {
 //       window.location.href = url; // Redirect ke halaman yang dipilih
 //   }
 // });
-
-// install-btn
-let deferredPrompt;
-
-window.addEventListener('beforeinstallprompt', (e) => {
-    e.preventDefault();
-    deferredPrompt = e;
-
-    document.getElementById('install-btn').style.display = 'block';
-});
-
-document.getElementById('install-btn').addEventListener('click', async () => {
-    if (deferredPrompt){
-        deferredPrompt.prompt();
-        const {outcome} = await
-        deferredPrompt.userChoice;
-        console.log(`User response: ${outcome}`);
-        deferredPrompt = null;
-    }
-});
