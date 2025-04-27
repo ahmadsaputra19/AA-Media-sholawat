@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: 'ScheherazadeNew-Medium';
-  src: url('./ScheherazadeNew-Medium.ttf') format('truetype');
+  src: url('./assets/ScheherazadeNew-Medium.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -99,7 +99,7 @@ header {
 }
 
 .container-install p{
-  src: url('./ScheherazadeNew-Medium.ttf') format('truetype');
+  src: url('./assets/ScheherazadeNew-Medium.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   color: white;
