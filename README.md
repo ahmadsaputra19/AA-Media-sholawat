@@ -11,7 +11,7 @@ Lagu Gambus Baru Ditambahkan
 10. 
 
 Lirik Lagu/Sholawat Baru Ditambahkan
-1. 
+1. Abadna Robbana
 2. 
 3. 
 4. 
