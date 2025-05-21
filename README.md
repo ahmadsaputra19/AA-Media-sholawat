@@ -9,7 +9,6 @@ Lagu Gambus Baru Ditambahkan
 8. Magdar Wannabi
 9. Allah Ya Adzim
 10. 
-#lirik sukaro masih kurang
 
 Lirik Lagu/Sholawat Baru Ditambahkan
 1. Abadna Robbana
