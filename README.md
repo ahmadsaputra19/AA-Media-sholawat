@@ -7,7 +7,7 @@ Lagu Gambus Baru Ditambahkan
 6. Marortu Aladdiyar (Suluk)
 7. Nassam Alaynal Hawa
 8. Magdar Wannabi
-9. 
+9. Allah Ya Adzim
 10. 
 #lirik sukaro masih kurang
 
