@@ -8,7 +8,7 @@ Lagu Gambus Baru Ditambahkan
 7. Nassam Alaynal Hawa
 8. Magdar Wannabi
 9. Allah Ya Adzim
-10. 
+10. Ana Badba' Galbi 
 
 Lirik Lagu/Sholawat Baru Ditambahkan
 1. Abadna Robbana
