@@ -4,7 +4,7 @@ Lirik Lagu Gambus Baru Ditambahkan
 3. Ya Uyuni Sahara
 4. Asygil Ghowani
 5. Waweh Nafsi
-6. Marortu Aladdiyar (Suluk)
+6. Marortu Aladdiyar | Suluk
 7. Nassam Alaynal Hawa
 8. Magdar Wannabi
 9. Allah Ya Adzim
@@ -18,6 +18,10 @@ Lirik Lagu Gambus Baru Ditambahkan
 17. Galal Muanna Bni Hasan
 18. Robbi Inni
 19. Ahebbak Lautikun Hadir
+20. La Ya'riful Huzna | suluk
+21. Akhedni Ma'ak
+22. Layalil Qohiroh
+23. Ya Syams
 
 Lirik Lagu/Sholawat Baru Ditambahkan
 1. Abadna Robbana
