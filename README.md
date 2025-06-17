@@ -26,7 +26,7 @@ Lirik Lagu Gambus Baru Ditambahkan
 Lirik Lagu/Sholawat Baru Ditambahkan
 1. Abadna Robbana
 2. Tola Toifun Min Muhammad
-3. 
+3. Wakullama | Ibtihal
 4. 
 5. 
 6. 
