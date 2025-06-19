@@ -5,7 +5,7 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 4. Ma Roaitu | Ibtihal
 5. Asy Syifa
 6. Ya Ilahal Arsyi Mali Siwak
-7. 
+7. Usabbihu Robbi
 8. 
 9. 
 10. 
