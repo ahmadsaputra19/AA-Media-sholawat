@@ -3,7 +3,7 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 2. Tola Toifun Min Muhammad
 3. Wakullama | Ibtihal
 4. Ma Roaitu | Ibtihal
-5. 
+5. Asy Syifa
 6. 
 7. 
 8. 
