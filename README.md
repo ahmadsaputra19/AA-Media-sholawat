@@ -4,7 +4,7 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 3. Wakullama | Ibtihal
 4. Ma Roaitu | Ibtihal
 5. Asy Syifa
-6. 
+6. Ya Ilahal Arsyi Mali Siwak
 7. 
 8. 
 9. 
