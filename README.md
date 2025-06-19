@@ -11,5 +11,4 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 10. 
 
 Lirik Kurang Lengkap
-1. Bil Qur'ani Sa Amdi Masih Ada Yang Kurang
-2. Amutu Waahya Lirik Kurang Tertata
+1. Amutu Waahya Lirik Kurang Tertata
