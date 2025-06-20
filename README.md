@@ -9,6 +9,7 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 
 Lirik Gambus Baru Ditambahkan
 1. Lembah Duka
+2. Ana Baasha'ak
 
 Lirik Kurang Lengkap
 1. Amutu Waahya Lirik Kurang Tertata
