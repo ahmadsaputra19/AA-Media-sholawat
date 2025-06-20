@@ -6,9 +6,9 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 5. Asy Syifa
 6. Ya Ilahal Arsyi Mali Siwak
 7. Usabbihu Robbi
-8. 
-9. 
-10. 
+
+Lirik Gambus Baru Ditambahkan
+1. Lembah Duka
 
 Lirik Kurang Lengkap
 1. Amutu Waahya Lirik Kurang Tertata
