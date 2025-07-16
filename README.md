@@ -6,6 +6,8 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 5. Asy Syifa
 6. Ya Ilahal Arsyi Mali Siwak
 7. Usabbihu Robbi
+8. Bidzikrika Robbi
+9. Alkaunu Sabbaha
 
 Lirik Gambus Baru Ditambahkan
 1. Lembah Duka
