@@ -8,6 +8,7 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 7. Usabbihu Robbi
 8. Bidzikrika Robbi
 9. Alkaunu Sabbaha
+10. Ya Akromarruslima | Ibtihal
 
 Lirik Gambus Baru Ditambahkan
 1. Lembah Duka
