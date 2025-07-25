@@ -9,6 +9,8 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 8. Bidzikrika Robbi
 9. Alkaunu Sabbaha
 10. Ya Akromarruslima | Ibtihal
+11. Ya Nur Alanur
+12. Ya Mannawahu | Ibtihal
 
 Lirik Gambus Baru Ditambahkan
 1. Lembah Duka
