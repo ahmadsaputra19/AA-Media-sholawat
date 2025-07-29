@@ -11,6 +11,7 @@ Lirik Lagu/Sholawat Baru Ditambahkan
 10. Ya Akromarruslima | Ibtihal
 11. Ya Nur Alanur
 12. Ya Mannawahu | Ibtihal
+13. La Barrofilhub | Ibtihal
 
 Lirik Gambus Baru Ditambahkan
 1. Lembah Duka
