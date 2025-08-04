@@ -10,7 +10,7 @@ Lirik Sholawat Baru Ditambahkan :
 1. Ya Robbi Sallimna
 2. Ya Rosulallahi Yaman Nuruhu | Ibtihal
 3. Fima Takhollufu
-4. 
+4. Sholallahu Robbuna | Wa Asyrobihi
 5. 
 
 Lirik Lagu Gambus Baru Ditambahkan :
