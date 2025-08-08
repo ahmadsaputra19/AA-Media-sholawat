@@ -1,4 +1,4 @@
-Jumlah Lirik Sholawat Sebanyak 526 Lirik Sholawat
+Jumlah Lirik Sholawat Sebanyak 527 Lirik Sholawat
 Jumlah Ibtihal Atau Suluk Sebanyak 34 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
@@ -12,6 +12,7 @@ Lirik Sholawat Baru Ditambahkan :
 3. Fima Takhollufu
 4. Sholallahu Robbuna | Wa Asyrobihi
 5. Sholawatullahi Bighoirintiha
+6. Ilahi Tammimi
 
 Lirik Lagu Gambus Baru Ditambahkan :
 1. 
