@@ -13,5 +13,6 @@ Lirik Sholawat Baru Ditambahkan :
 4. Sholallahu Robbuna | Wa Asyrobihi
 5. Sholawatullahi Bighoirintiha
 6. Ilahi Tammimi
+7. Hubbun Nabi Wal Ali Dini
 
 Menambahkan Medley Hadroh 3
