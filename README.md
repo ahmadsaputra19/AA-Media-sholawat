@@ -14,9 +14,4 @@ Lirik Sholawat Baru Ditambahkan :
 5. Sholawatullahi Bighoirintiha
 6. Ilahi Tammimi
 
-Lirik Lagu Gambus Baru Ditambahkan :
-1. 
-2. 
-3. 
-4. 
-5. 
+Menambahkan Medley Hadroh 3
