@@ -1,4 +1,4 @@
-Jumlah Lirik Sholawat Sebanyak 529 Lirik Sholawat
+Jumlah Lirik Sholawat Sebanyak 530 Lirik Sholawat
 Jumlah Ibtihal Atau Suluk Sebanyak 34 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
@@ -15,5 +15,6 @@ Lirik Sholawat Baru Ditambahkan :
 6. Ilahi Tammimi
 7. Hubbun Nabi Wal Ali Dini
 8. Syi'ir Kuncine Lawang Suwargo
+9. Maulaya Sholli Wasallim | Nabi Putra Abdullah
 
 Menambahkan Medley Hadroh 3
