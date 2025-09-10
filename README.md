@@ -1,4 +1,4 @@
-Jumlah Lirik Sholawat Sebanyak 533 Lirik Sholawat
+Jumlah Lirik Sholawat Sebanyak 534 Lirik Sholawat
 Jumlah Ibtihal Atau Suluk Sebanyak 34 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
@@ -19,5 +19,6 @@ Lirik Sholawat Baru Ditambahkan :
 10. Ahmad Ya Khoirol Basyar
 11. Nurun Nabi Muhammad
 12. Qolban Soghir
+13. Lailaha Illallah Tub Alaina
 
 Menambahkan Medley Hadroh 3
