@@ -1,5 +1,5 @@
-Jumlah Lirik Sholawat Sebanyak 536 Lirik Sholawat
-Jumlah Ibtihal Atau Suluk Sebanyak 34 Lirik Ibtihal Atau Suluk
+Jumlah Lirik Sholawat Sebanyak 537 Lirik Sholawat
+Jumlah Ibtihal Atau Suluk Sebanyak 35 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
 JUmlah Suluk Gambus Sebanyak 11 Suluk Gambus
@@ -22,5 +22,7 @@ Lirik Sholawat Baru Ditambahkan :
 13. Lailaha Illallah Tub Alaina
 14. Ayah Sejagat
 15. Doa Pengantin
+16. Lillahi Fuadi
+17. Ilahi | Ibtihal
 
 Menambahkan Medley Hadroh 3
