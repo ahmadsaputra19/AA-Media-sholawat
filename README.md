@@ -6,23 +6,16 @@ JUmlah Suluk Gambus Sebanyak 11 Suluk Gambus
 
 Jumlah Kitab Maulid Sebanyak 4 Kitab Maulid
 
-Lirik Sholawat Baru Ditambahkan :
-1. Ya Robbi Sallimna
-2. Ya Rosulallahi Yaman Nuruhu | Ibtihal
-3. Fima Takhollufu
-4. Sholallahu Robbuna | Wa Asyrobihi
-5. Sholawatullahi Bighoirintiha
-6. Ilahi Tammimi
-7. Hubbun Nabi Wal Ali Dini
-8. Syi'ir Kuncine Lawang Suwargo
-9. Maulaya Sholli Wasallim | Nabi Putra Abdullah
-10. Ahmad Ya Khoirol Basyar
-11. Nurun Nabi Muhammad
-12. Qolban Soghir
-13. Lailaha Illallah Tub Alaina
-14. Ayah Sejagat
-15. Doa Pengantin
-16. Lillahi Fuadi
-17. Ilahi | Ibtihal
+Lirik Sholawat Yang Akan Ditambahkan :
+1. Abazzahro Iyya
+2. Bulbulul Iqbali Ghorrod
+3. Huwa Mulhimuna
+4. Ilahil Ghoits
+5. Kamilul Aushof
+6. Miladun Toha
+7. Muddatil Aidi Libabik
+8. Muhammadal Insan
+9. Qod Hanantu Ilaih
+10. Robi'ussurur
 
 Menambahkan Medley Hadroh 3
