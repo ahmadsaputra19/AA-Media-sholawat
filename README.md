@@ -1,4 +1,4 @@
-Jumlah Lirik Sholawat Sebanyak 537 Lirik Sholawat
+Jumlah Lirik Sholawat Sebanyak 538 Lirik Sholawat
 Jumlah Ibtihal Atau Suluk Sebanyak 35 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
@@ -6,7 +6,7 @@ JUmlah Suluk Gambus Sebanyak 11 Suluk Gambus
 
 Jumlah Kitab Maulid Sebanyak 4 Kitab Maulid
 
-Lirik Sholawat Yang Akan Ditambahkan :
+Lirik Sholawat Yang Baru Ditambahkan :
 1. Abazzahro Iyya
 2. Bulbulul Iqbali Ghorrod
 3. Huwa Mulhimuna
@@ -17,5 +17,6 @@ Lirik Sholawat Yang Akan Ditambahkan :
 8. Muhammadal Insan
 9. Qod Hanantu Ilaih
 10. Robi'ussurur
+11. Syi'ir NU
 
 Menambahkan Medley Hadroh 3
