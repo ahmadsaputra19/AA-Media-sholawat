@@ -1,5 +1,5 @@
 Jumlah Lirik Sholawat Sebanyak 540 Lirik Sholawat
-Jumlah Ibtihal Atau Suluk Sebanyak 35 Lirik Ibtihal Atau Suluk
+Jumlah Ibtihal Atau Suluk Sebanyak 36 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
 JUmlah Suluk Gambus Sebanyak 11 Suluk Gambus
@@ -20,5 +20,6 @@ Lirik Sholawat Yang Baru Ditambahkan :
 11. Syi'ir NU
 12. Almukhtar
 13. Gala Gala Versi Sholawat
+14. Ya Sayyida Sadati Jituka | Ibtihal
 
 Menambahkan Medley Hadroh 3
