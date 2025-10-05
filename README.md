@@ -21,5 +21,6 @@ Lirik Sholawat Yang Baru Ditambahkan :
 12. Almukhtar
 13. Gala Gala Versi Sholawat
 14. Ya Sayyida Sadati Jituka | Ibtihal
+15. Ya Durrotaghril | Ibtihal
 
 Menambahkan Medley Hadroh 3
