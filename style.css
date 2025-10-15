@@ -568,15 +568,15 @@ header {
     font-size: 12px;
   }
   .icon li a img {
-    height: 50px;
-    margin-top: -10px;
+    height: 45px;
+    margin-top: -7px;
   }
   .list li {
-    margin-left: 10px;
+    margin-left: 9px;
     margin-top: 2px;
   }
   .list li .dropdown {
-    font-size: 15px;
+    font-size: 14px;
   }
   .logo-img {
     margin-bottom: -20px;
@@ -618,5 +618,8 @@ header {
   .to-top {
     width: 25px;
     height: 25px;
+  }
+  .install img {
+    width: 150px;
   }
 }
