@@ -1,4 +1,4 @@
-Jumlah Lirik Sholawat Sebanyak 555 Lirik Sholawat
+Jumlah Lirik Sholawat Sebanyak 556 Lirik Sholawat
 Jumlah Ibtihal Atau Suluk Sebanyak 36 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
@@ -22,5 +22,6 @@ Lirik Sholawat Yang Baru Ditambahkan :
 13. Ya Manzili
 14. Ya Thiba Ayyami
 15. Sholatullah Ala Khoiril Baroya
+16. Dawa Fuadi
 
 Menambahkan Medley Hadroh 3
