@@ -1,5 +1,5 @@
 Jumlah Lirik Sholawat Sebanyak 556 Lirik Sholawat
-Jumlah Ibtihal Atau Suluk Sebanyak 37 Lirik Ibtihal Atau Suluk
+Jumlah Ibtihal Atau Suluk Sebanyak 38 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
 JUmlah Suluk Gambus Sebanyak 11 Suluk Gambus
@@ -25,5 +25,6 @@ Lirik Sholawat Yang Baru Ditambahkan :
 16. Dawa Fuadi
 17. Jasadun | Ibtihal
 18. Ghurroba Wanahnusir
+19. Salamullahi Ya | Ibtihal
 
 Menambahkan Medley Hadroh 3
