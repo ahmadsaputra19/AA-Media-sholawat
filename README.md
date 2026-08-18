@@ -1,4 +1,4 @@
-Jumlah Lirik Sholawat Sebanyak 558 Lirik Sholawat
+Jumlah Lirik Sholawat Sebanyak 559 Lirik Sholawat
 Jumlah Ibtihal Atau Suluk Sebanyak 41 Lirik Ibtihal Atau Suluk
 
 Jumlah Lirik Lagu Gambus Sebanyak 138 Lirik Lagu Gambus
@@ -12,7 +12,7 @@ Lirik Sholawat Yang Baru Ditambahkan :
 3. Asyroqot Syamsun Nubuwwah
 4. Maqomat | Ibtihal
 5. Fuadi Bikhoiril Mursalin | Ibtihal
-6. 
+6. Pasrah
 7. 
 8. 
 9. 
