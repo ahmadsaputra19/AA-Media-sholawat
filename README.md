@@ -13,7 +13,7 @@ Lirik Sholawat Yang Baru Ditambahkan :
 4. Maqomat | Ibtihal
 5. Fuadi Bikhoiril Mursalin | Ibtihal
 6. Pasrah
-7. 
+7. Robbi Faliqun Nawa
 8. 
 9. 
 10. 
